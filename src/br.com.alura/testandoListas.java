@@ -4,7 +4,7 @@ import java.util.Collections;
 public class testandoListas {
     public static void main(String[] args) {
         String aula1 = "Conhecendo mais de listas";
-        String aula2 = "Modelando a classe aula";
+        String aula2 = "Modelando a classe br.com.alura.aula";
         String aula3 = "Trabalhando com Cursos e Sets";
 
         ArrayList<String> aulas = new ArrayList<>();
@@ -18,12 +18,12 @@ public class testandoListas {
 
         System.out.println(aulas);
 
-        for (String aula : aulas) { //para cada aula dentro de aulas
+        for (String aula : aulas) { //para cada br.com.alura.aula dentro de aulas
             System.out.println("Aula: " + aula);
         }
 
         String primeiraAula = aulas.get(0); // "pega" a String da posição que indicar
-        System.out.println("A primeira aula é " + primeiraAula);
+        System.out.println("A primeira br.com.alura.aula é " + primeiraAula);
 
         for (int i = 0; i < aulas.size(); i++) {
             System.out.println("Aula: " + aulas.get(i)); // dentro do laço for, entrega o valor de acordo com a posição
