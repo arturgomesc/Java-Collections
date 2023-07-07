@@ -21,6 +21,8 @@ public class testaListaDeAula {
         Collections.sort(aulas, Comparator.comparing(aula::getTempo)); // comparando pelo tempo, do menor pro maior
         System.out.println(aulas);
 
-        aulas.sort(Comparator.comparing(aula::getTempo));
+        aulas.sort(Comparator.comparing(aula::getTempo)); // sintaxe mais enxuta
+        //forma de comparar com dois parâmetros:
+        //aulas.sort(Comparator.comparing(aula::getTempo).thenComparing(aula::getTitulo));
     }
 }
