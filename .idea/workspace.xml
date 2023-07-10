@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0d93cc3-196c-454d-be7d-d9fb7a9cd6f3" name="Changes" comment="explicando ArrayList">
-      <change afterPath="$PROJECT_DIR$/src/testeParaFilme/filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testeParaFilme/testaListaDeFilmes.java" afterDir="false" />
+    <list default="true" id="f0d93cc3-196c-454d-be7d-d9fb7a9cd6f3" name="Changes" comment="exercitando comparator">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Curso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/testaListaDeAula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/testaListaDeAula.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +65,20 @@
       <option name="project" value="LOCAL" />
       <updated>1688674586266</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exercitando comparator">
+      <option name="closed" value="true" />
+      <created>1688760207258</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688760207258</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="explicando ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="explicando ArrayList" />
+    <MESSAGE value="exercitando comparator" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercitando comparator" />
   </component>
 </project>
