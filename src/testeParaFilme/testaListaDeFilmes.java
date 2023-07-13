@@ -6,11 +6,11 @@ import java.util.Comparator;
 
 public class testaListaDeFilmes {
     public static void main(String[] args) {
-        filme f1 = new filme("O Poderoso Chefão", 120);
-        filme f2 = new filme("Spiderverse", 100);
-        filme f3 = new filme("Mad Max", 210);
+        Filme f1 = new Filme("O Poderoso Chefão", 120);
+        Filme f2 = new Filme("Spiderverse", 100);
+        Filme f3 = new Filme("Mad Max", 210);
 
-        ArrayList<filme> Filmes = new ArrayList<>();
+        ArrayList<Filme> Filmes = new ArrayList<>();
         Filmes.add(f1);
         Filmes.add(f2);
         Filmes.add(f3);
@@ -20,11 +20,11 @@ public class testaListaDeFilmes {
         System.out.println(Filmes);
         System.out.println();
 
-        Filmes.sort(Comparator.comparing(filme::getDuracao));
+        Filmes.sort(Comparator.comparing(Filme::getDuracao));
 
         System.out.println("Filmes por ordem de duração: ");
-        Filmes.forEach( filme -> {
-            System.out.println(filme);
+        Filmes.forEach(Filme -> {
+            System.out.println(Filme);
             System.out.println();
         });
 
