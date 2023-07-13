@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0d93cc3-196c-454d-be7d-d9fb7a9cd6f3" name="Changes" comment="utilizando Collections.sort">
-      <change afterPath="$PROJECT_DIR$/src/br.com.alura/ArrayListVSLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/TestaCursoComAluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/testaAlunos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/testaCurso2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testeParaFilme/Atores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testeParaFilme/testaAtores.java" afterDir="false" />
+    <list default="true" id="f0d93cc3-196c-454d-be7d-d9fb7a9cd6f3" name="Changes" comment="exercitando comparator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Aluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/aula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/Aula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/testaCurso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/testaCurso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/testaListaDeAula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/testaListaDeAula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testeParaFilme/filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testeParaFilme/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testeParaFilme/testaListaDeFilmes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testeParaFilme/testaListaDeFilmes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/TestaCursoComAluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/TestaCursoComAluno.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +34,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -79,11 +67,20 @@
       <option name="project" value="LOCAL" />
       <updated>1688674586266</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exercitando comparator">
+      <option name="closed" value="true" />
+      <created>1688760207258</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688760207258</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="explicando ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="explicando ArrayList" />
+    <MESSAGE value="exercitando comparator" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercitando comparator" />
   </component>
 </project>

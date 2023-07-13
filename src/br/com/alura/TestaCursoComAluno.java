@@ -20,5 +20,11 @@ public class TestaCursoComAluno {
         javaColecoes.getAlunos().forEach( aluno -> {
             System.out.println(aluno);
         });
+
+        Aluno turini = new Aluno("Rodrigo Turini", 3489);
+        System.out.println(javaColecoes.estaMatriculado(turini));
+
+        System.out.println(javaColecoes.estaMatriculado(a1));
+        System.out.println(a1.equals("Caetano Veloso"));
     }
 }
